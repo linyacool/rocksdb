@@ -102,7 +102,7 @@ using rocksdb::Transaction;
 using rocksdb::Checkpoint;
 
 using std::shared_ptr;
-
+// niubi
 extern "C" {
 
 struct rocksdb_t                 { DB*               rep; };
